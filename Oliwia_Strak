@@ -1,0 +1,9 @@
+class Oliwia:
+def__init_(Oliwia, name, surname):
+Oliwia.name = name
+Oliwia.surname = surname
+
+def myfunc(Oliwia):
+print("Hello!!!" + Oliwia.surname)
+z = Oliwia('Oliwia', 'Strak')
+z.myfunc()
